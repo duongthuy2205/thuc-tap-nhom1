@@ -1,0 +1,83 @@
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\AppQL_NhanSu.exe.config
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\AppQL_NhanSu.exe
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\AppQL_NhanSu.pdb
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csprojAssemblyReference.cache
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Form1.resources
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Properties.Resources.resources
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.GenerateResource.cache
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.CoreCompileInputs.cache
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.exe
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.pdb
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Form2.resources
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_Luong.resources
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_NhanVien.resources
+C:\Users\ManhChung\source\repos\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_PhongBan.resources
+C:\Users\ManhChung\source\repos\AppQL_NhanSu1\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csprojAssemblyReference.cache
+C:\Users\ManhChung\source\repos\AppQL_NhanSu1\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Form1.resources
+C:\Users\ManhChung\source\repos\AppQL_NhanSu1\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Form2.resources
+C:\Users\ManhChung\source\repos\AppQL_NhanSu1\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_Luong.resources
+C:\Users\ManhChung\source\repos\AppQL_NhanSu1\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_NhanVien.resources
+C:\Users\ManhChung\source\repos\AppQL_NhanSu1\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_PhongBan.resources
+C:\Users\ManhChung\source\repos\AppQL_NhanSu1\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.GenerateResource.cache
+E:\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\AppQL_NhanSu.exe.config
+E:\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\AppQL_NhanSu.exe
+E:\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\AppQL_NhanSu.pdb
+E:\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csprojAssemblyReference.cache
+E:\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Form1.resources
+E:\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Form2.resources
+E:\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Properties.Resources.resources
+E:\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_Luong.resources
+E:\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_NhanVien.resources
+E:\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_PhongBan.resources
+E:\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.GenerateResource.cache
+E:\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.CoreCompileInputs.cache
+E:\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.exe
+E:\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.pdb
+E:\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\EntityFramework.dll
+E:\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\EntityFramework.SqlServer.dll
+E:\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\EntityFramework.xml
+E:\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\EntityFramework.SqlServer.xml
+E:\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.CopyComplete
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\AppQL_NhanSu.exe.config
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\AppQL_NhanSu.exe
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\AppQL_NhanSu.pdb
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\EntityFramework.dll
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\EntityFramework.SqlServer.dll
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\EntityFramework.xml
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\EntityFramework.SqlServer.xml
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csprojAssemblyReference.cache
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Form1.resources
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Form2.resources
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Properties.Resources.resources
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_Luong.resources
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_PhongBan.resources
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.GenerateResource.cache
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.CoreCompileInputs.cache
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.CopyComplete
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.exe
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.pdb
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Migrations.NhanSu.resources
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_ChucVu.resources
+E:\Github\QL_NhaSu\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_NhanVien1.resources
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\AppQL_NhanSu.exe.config
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\AppQL_NhanSu.exe
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\AppQL_NhanSu.pdb
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\EntityFramework.dll
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\EntityFramework.xml
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.AssemblyReference.cache
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.SuggestedBindingRedirects.cache
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Form1.resources
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Form2.resources
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Migrations.NhanSu.resources
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.Properties.Resources.resources
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_ChucVu.resources
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_Luong.resources
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_NhanVien1.resources
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.UC_PhongBan.resources
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.GenerateResource.cache
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.CoreCompileInputs.cache
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.csproj.CopyComplete
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.exe
+C:\Users\QT computer\Documents\TTN\QL_NhaSu-master\QL_NhaSu-master\AppQL_NhanSu\AppQL_NhanSu\obj\Debug\AppQL_NhanSu.pdb
